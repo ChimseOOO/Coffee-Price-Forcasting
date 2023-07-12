@@ -1,0 +1,3 @@
+calculate,lstm,gru,xgboost
+MAPE,4.46,16.34,7.8
+RMSE,91.44,4.91,67
