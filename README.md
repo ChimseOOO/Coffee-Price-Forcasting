@@ -12,8 +12,8 @@
 | Avatar                | Name                 | Student ID| Role       |
 |-----------------------|----------------------|-----------|-----------|
 ||Nguyen Nhat Thuong |20522000|LEADER, LSTM, DATASET|
-||Le Quang Hoa |20521331|GRU|
-||Kieu Xuan Dieu Huong |20521381|MLP|
+||Le Quang Hoa |20521331|GRU, DATASET|
+||Kieu Xuan Dieu Huong |20521381|MLP, DATASET|
 
 ## TECHNOLOGY STACKS ✨
 
