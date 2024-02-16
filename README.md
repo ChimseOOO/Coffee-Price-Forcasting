@@ -1,8 +1,5 @@
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![Repo Size](https://img.shields.io/github/repo-size/ngnhthuong/COFFEE_PRICE_FORCASTING) 
 ![count](https://img.shields.io/github/languages/count/ngnhthuong/COFFEE_PRICE_FORCASTING) 
-![count](https://img.shields.io/github/forks/ngnhthuong/COFFEE_PRICE_FORCASTING) 
-![count](https://img.shields.io/github/watchers/ngnhthuong/COFFEE_PRICE_FORCASTING) 
 
 ## COFFEE PRICE FORCASTING - ACCT5123.N21.CTTT
 <p align="middle">
